@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{27355CB4-2547-DC6D-49B0-48D4888756A4}") = "KCSJgame", "Assembly-CSharp.csproj", "{FBCAF292-F266-7421-3E2D-4FC62F81C70C}"
+EndProject
+Project("{27355CB4-2547-DC6D-49B0-48D4888756A4}") = "KCSJgame", "Assembly-CSharp-Editor.csproj", "{01ADDC2A-E1F5-901E-E360-161C80AC6CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCAF292-F266-7421-3E2D-4FC62F81C70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCAF292-F266-7421-3E2D-4FC62F81C70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCAF292-F266-7421-3E2D-4FC62F81C70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCAF292-F266-7421-3E2D-4FC62F81C70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01ADDC2A-E1F5-901E-E360-161C80AC6CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ADDC2A-E1F5-901E-E360-161C80AC6CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ADDC2A-E1F5-901E-E360-161C80AC6CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ADDC2A-E1F5-901E-E360-161C80AC6CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
